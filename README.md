@@ -24,12 +24,6 @@
 git clone https://github.com/6starlong/antdv-mp.git
 ```
 
-### 推荐使用淘宝 NPM 镜像
-
-```
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-```
-
 安装依赖
 
 ```
