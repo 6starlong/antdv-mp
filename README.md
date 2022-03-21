@@ -34,7 +34,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 ```
 cd antdv-mp
-npm install or cnpm install
+npm install
 ```
 
 ### 启动服务及热重载
